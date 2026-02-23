@@ -37,7 +37,7 @@ section#redes-sociais {
 }
 
 section#redes-sociais img {
-    width: 60px;
+    height: 60px;
     margin: 10px;
     border-radius: 50%;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
@@ -47,7 +47,7 @@ section#redes-sociais img {
 section#redes-sociais img:hover {
     transform: translate(0px, -1px);
     border: 2px solid rgba(255, 255, 255, 0.534);
-    transition: transform 0.5s, border 0.2s;
+    transition: transform 0.5s;
 }
 
 iframe#tela {
